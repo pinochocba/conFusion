@@ -70,7 +70,7 @@ body {
   border: 1px solid #fff;
 }
 
-#carouselButtons {
+#carousel-button {
     right:0px;
     position: absolute;
     bottom: 0px;
